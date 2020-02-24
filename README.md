@@ -1,6 +1,8 @@
 # Modern SQL in MySQL
 
-These instructions are meant to be used together with a live presentation.
+These instructions are meant to be used together with a live
+presentation. The slides are included in the Github reporistory
+(https://raw.githubusercontent.com/nryeng/abakus-v20/master/modern-sql-in-mysql.pdf).
 
 This training course will show you how to use JSON, CTEs and window
 functions in MySQL. As a finishing touch, if we have time, we'll finish
